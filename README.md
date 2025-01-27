@@ -1,4 +1,5 @@
-Maze Escape Game
+#Maze Escape Game
+
 This project is a Maze Escape Game designed using the stack data structure in C++. The game utilizes the stack's Last-In-First-Out (LIFO) principle to navigate through the maze and find the exit.
 
 Project Features
